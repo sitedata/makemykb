@@ -2,9 +2,11 @@
 
 * **Step 1.** Log in to your **CloudFlare** dashboard.
 
-![CloudFlare Website](/kb-images/cloudflare/cloudflare-website.png)
+<img src="/kb-images/cloudflare/cloudflare-website.png" alt="CloudFlare Website" width="full"/>
 
 * **Step 2.** Click the **Add Site** link from the navigation bar.
+
+<img src="/kb-images/cloudflare/cloudflare-add-site.png" alt="CloudFlare Add Site" width="full"/>
 
 * **Step 3.** Enter the domain name for the website you want to add.
 
