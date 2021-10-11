@@ -10,9 +10,9 @@ To install Blesta using a file manager follow these simple steps:
 
 * **Step 4.** Upload and extract the compressed file to the directory you want to install Blesta in.
 
-* **Step 5.** The Blesta files will be in a sub-directory called "blesta". Navigate to that directory and move all of the files to the directory you were in previously.
+* **Step 5.** The files will be in a sub-directory called "blesta". Navigate there and move all of the files to your original directory.
 
-* **Step 6.** Now go back to your hosting control panel and navigate to the database section, often called "MySQL Databases" or "SQL Databases".
+* **Step 6.** Now go back to your hosting control panel and navigate to the database section.
 
 * **Step 7.** Click on the create database button and enter your databases name, username and generated a password.
 
