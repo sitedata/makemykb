@@ -2,6 +2,8 @@
 
 * **Step 1.** Log in to the DirectAdmin control panel.
 
+<img src="/kb-images/directadmin/directadmin-main-page.png" alt="DirectAdmin Main Page" width="full"/>
+
 * **Step 2.** Navigate to the **Create/Restore Backups** page.
 
 * **Step 3.** Configure your backup by choosing specific or all domains and data.

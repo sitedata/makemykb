@@ -2,6 +2,8 @@
 
 * **Step 1.** Log in to the DirectAdmin control panel.
 
+<img src="/kb-images/directadmin/directadmin-main-page.png" alt="DirectAdmin Main Page" width="full"/>
+
 * **Step 2.** Navigate to the **E-mail Accounts** page from the **E-mail Manager** subsection.
 
 ![DirectAdmin Email Accounts](/kb-images/directadmin/directadmin-email-accounts.png)
