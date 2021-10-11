@@ -1,4 +1,4 @@
-This guide will teach you how to install Blesta manually using a hosting control panel that has an in-built file manager.
+This will teach you how to install Blesta manually using a hosting control panel that has an in-built file manager.
 
 To install Blesta using a file manager follow these simple steps:
 
