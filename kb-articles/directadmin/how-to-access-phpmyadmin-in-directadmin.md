@@ -1,3 +1,5 @@
+![DirectAdmin Logo](/kb-images/directadmin/directadmin-logo.png)
+
 * Step 1. Log in to the **DirectAdmin** control panel.
 
 * Step 2. Navigate to the **SQL Management** page from within the **Account Manager** subsection.
