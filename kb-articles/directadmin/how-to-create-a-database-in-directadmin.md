@@ -2,9 +2,9 @@
 
 * **Step 1.** Log in to the DirectAdmin control panel.
 
-* **Step 2.** Navigate to the "MySQL Management" page.
+* **Step 2.** Navigate to the **MySQL Management** page.
 
-* **Step 3.** Click the "CREATE NEW DATABASE" button.
+* **Step 3.** Click the **CREATE NEW DATABASE** button.
 
 ![DirectAdmin MySQL Management](/kb-images/directadmin/directadmin-mysql-management.png)
 
@@ -12,4 +12,4 @@
 
 * **Step 5.** Enter your database password or create a randomly generated password.
 
-* **Step 6.** Click the "CREATE DATABASE" button.
+* **Step 6.** Click the **CREATE DATABASE** button.

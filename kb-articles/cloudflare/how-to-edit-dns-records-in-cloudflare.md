@@ -4,7 +4,7 @@
 
 * **Step 2.** Select the domain you want to manage from the dashboard.
 
-* **Step 3.** Navigate to the "DNS" page.
+* **Step 3.** Navigate to the **DNS** page.
 
 A Records:
 

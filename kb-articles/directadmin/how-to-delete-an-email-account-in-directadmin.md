@@ -8,4 +8,4 @@
 
 * **Step 3.** Select the email account that you want to delete.
 
-* **Step 4.** Click the "Delete" button.
+* **Step 4.** Click the **Delete** button.
