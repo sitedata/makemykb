@@ -4,9 +4,9 @@
 
 <img src="/kb-images/directadmin/directadmin-main-page.png" alt="DirectAdmin Main Page" width="full"/>
 
-* **Step 2.** Navigate to the E-Mail subsection and select **E-mail Accounts**.
+* **Step 2.** Navigate to the E-Mail subsection and select **"E-mail Accounts"**.
 
-* **Step 3.** Click the **Create Account** button.
+* **Step 3.** Click the **"Create Account"** button.
 
 * **Step 4.** Enter your username, password and select a storage quota. 
 
@@ -14,4 +14,4 @@
 **Password** \- The password used to log in to the email account. You can create your own or generate one at random. 
 **E-mail Quota** \- The total storage the email account can use from your package limits.
 
-* **Step 5.** Click the **Create Account** button.
+* **Step 5.** Click the **"Create Account"** button.

@@ -6,9 +6,9 @@ Follow the steps below to cancel a PayPal subscription.
 
 * **Step 1.** Log in to your **PayPal** account.
 
-* **Step 2.** Navigate to the **"Payments"** page from within **"Settings**.
+* **Step 2.** Navigate to the **"Payments"** page from within **"Settings"**.
 
-* **Step 3.** Click on **"Manage automated payments**.
+* **Step 3.** Click on **"Manage automated payments"**.
 
 * **Step 4.** Select the merchant you wish to cancel the subscription with.
 
