@@ -4,6 +4,6 @@ You are responsible for maintaining this subscription as a customer, so if you c
 
 Follow the steps below to cancel a PayPal subscription.
 
-* Step 1. Log in to your PayPal account.
+* **Step 1.** Log in to your **PayPal** account.
 
-* Step 2. Navigate to the "Payments" page.
+* **Step 2.** Navigate to the **"Payments"** page.
