@@ -2,6 +2,8 @@
 
 * Step 2. Navigate to the "E-mail Accounts" page from the "E-mail Manager" subsection.
 
+![DirectAdmin Email Accounts](/kb-images/directadmin/directadmin-email-accounts.png)
+
 * Step 3. Select the add/plus symbol next to the email address you want to change the password for.
 
 * Step 4. Click the "Change Password" button.
