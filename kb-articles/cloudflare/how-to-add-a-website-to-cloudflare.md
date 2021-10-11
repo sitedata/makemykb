@@ -1,3 +1,5 @@
+<img src="/kb-images/cloudflare/cloudflare-logo.png" alt="CloudFlare Logo" width="250"/>
+
 * **Step 1.** Log in to your CloudFlare dashboard account.
 
 ![CloudFlare Website](/kb-images/cloudflare/cloudflare-website.png)

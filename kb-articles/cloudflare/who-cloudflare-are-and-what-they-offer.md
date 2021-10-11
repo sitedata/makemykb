@@ -1,3 +1,5 @@
+<img src="/kb-images/cloudflare/cloudflare-logo.png" alt="CloudFlare Logo" width="250"/>
+
 CloudFlare is a web infrastructure and security company that provides many services such as:
 
 * DNS management and proxying
