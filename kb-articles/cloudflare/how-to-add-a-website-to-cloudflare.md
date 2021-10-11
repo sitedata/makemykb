@@ -1,6 +1,6 @@
 * **Step 1.** Log in to your CloudFlare dashboard account.
 
-![CloudFlare Website](kb-images/cloudflare/cloudflare-website.png)
+![CloudFlare Website](/kb-images/cloudflare/cloudflare-website.png)
 
 * **Step 2.** Click the "Add Site" link from the navigation bar.
 
