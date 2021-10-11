@@ -1,4 +1,4 @@
-This article will teach you how to forward emails from your DirectAdmin email account to another email address.
+<img src="/kb-images/directadmin/directadmin-logo.png" alt="DirectAdmin Logo" width="250"/>
 
 * Step 1. Log in to the DirectAdmin control panel.
 * Step 2. Navigate to the "Forwarders" page in the "E-mail" subsection.
