@@ -1,9 +1,13 @@
-MakeMyKB provides free web hosting knowledge base articles in a downloadable format for companies using Blesta. 
+**MakeMyKB** is a project that aims to provide easily importable knowledgebase articles for web hosting companies using Blesta.
 
-It's completely free and you're welcome to make any adjustments you wish or submit requests.
+The articles are developed and pushed to this repo in Markdown format and completed articles are then pasted into a Blesta installation and exported from there as an SQL format to be used elsewhere.
 
-The project has been restarted as of August 2021 and is currently in development. 
+The main categories covered will be:
+* Blesta
+* CloudFlare
+* cPanel
+* DirectAdmin
+* Plesk
+* WHMCS
 
-Articles will be posted here in .md format as they're developed and SQL packs will be released here when available.
-
-MakeMyKB is developed by michaelcee.xyz
+**MakeMyKB** is completely free and provided independently by MichaelCee.xyz
