@@ -1,4 +1,4 @@
-This article will teach you how to install **WHMCS** on a hosting account using the **cPanel Control Panel**. 
+This article will teach you how to install **WHMCS** on a hosting account using the **cPanel control panel**. 
 
 Simply follow the steps as outlined below.
 

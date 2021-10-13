@@ -1,4 +1,4 @@
-This article will teach you how to install **WHMCS** on a hosting account using the **DirectAdmin Control Panel**. 
+This article will teach you how to install **WHMCS** on a hosting account using the **DirectAdmin control panel**. 
 
 Simply follow the steps as outlined below.
 
