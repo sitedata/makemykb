@@ -1,6 +1,10 @@
+<img src="/kb-images/paypal/paypal-logo.png" alt="PayPal Logo" width="250"/>
+
 PayPal is a widely used and accepted payment processor for online payments. Here's how you can create your own PayPal account.
 
 * **Step 1.** Visit the **PayPal** website.
+
+<img src="/kb-images/paypal/paypal-website.png" alt="PayPal website" width="full"/>
 
 * **Step 2.** Click the **"Sign Up"** button.
 
